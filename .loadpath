@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loadpath>
+	<pathentry path="" type="src"/>
+	<pathentry path="GEM_LIB/mocha-0.9.0/lib" type="var"/>
+	<pathentry path="GEM_LIB/actionpack-2.1.0/lib" type="var"/>
+	<pathentry path="GEM_LIB/actionmailer-2.1.0/lib" type="var"/>
+	<pathentry path="GEM_LIB/activerecord-2.1.0/lib" type="var"/>
+	<pathentry path="GEM_LIB/activesupport-2.1.0/lib" type="var"/>
+</loadpath>
